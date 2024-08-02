@@ -1,0 +1,12 @@
+
+#container{
+    display: grid;
+    column-gap:0px;
+    grid-template-columns: repeat(200,1fr);
+    
+    
+}
+
+#container div{
+    background-color:black;
+}
